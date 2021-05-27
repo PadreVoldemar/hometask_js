@@ -18,5 +18,11 @@ function mathOperation(arg1, arg2, operation) {
     switch (operation) {
         case "+":
             return addition(arg1, arg2);
+        case "+":
+            return addition(arg1, arg2);
+        case "+":
+            return addition(arg1, arg2);
+        case "+":
+            return addition(arg1, arg2);
     }
 }
