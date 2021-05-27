@@ -10,6 +10,6 @@ function multiplication(a, b) {
     return a * b;
 }
 
-function adivision(a, b) {
+function division(a, b) {
     return a / b;
 }
